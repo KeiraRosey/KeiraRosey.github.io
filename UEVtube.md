@@ -13,7 +13,7 @@ UEVtube is a UE5 based virtual production tool made to assist in puppeting a vir
 * Save and load avatar configurations as a external file to easily share setups between artists and users.
 * Custom event system for Twitch.tv integration, and keybinds.
   * Bind events to chat commands, twitch rewards, paid subscriptions, and "bit" donations.
-  * Events can execute a variety of functions such as setting morph targets, applying post proccessing effects, or even sending messages back on twitch.tv
+  * Events can execute a variety of functions such as setting morph targets, applying post processing effects, or even sending messages back on twitch.tv
 ![vtbEvents](img/vtbEvents.png)
 * Custom post process based toon shading, outlines, and fresnel rim lighting for clean NPR stylization. These make use of unreal's normal lighting system.
 ![vtbpic](img/vtbShader.png)

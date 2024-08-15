@@ -1,7 +1,7 @@
 ---
 title: Keira Karanik
 ---
-![qdt](img/kwa.png)
+![kwa](img/kwa.png)
 ### KWA Modules
 [Github Link](https://github.com/PuddlePumpkin/KWA-Modules-Public)
 
