@@ -17,7 +17,7 @@ title: Keira Karanik
 </div>
 <div class="coler" markdown="1">
 ## [KWA Modules](/kwa)
-[![kwa](img/kwa.png)](/kwa)
+[![kwa](img/kwatiny.png)](/kwa)
 </div>
 </div>
 <h2 style="text-align: center;">Graveyard</h2>
